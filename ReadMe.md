@@ -51,7 +51,7 @@ python main.py
 
 ## Contributors
 
-- Anas Etthabity
+- STILINSKI-ANAS
 
 ## License
 
