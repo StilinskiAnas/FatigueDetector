@@ -1,7 +1,5 @@
 # Fatigue Detector - Real-time Video Processing and Facial Fatigue Detection
 
-![Fatigue Detector Logo](insert-your-logo-url-here)
-
 ## Overview
 
 Fatigue Detector is a powerful desktop application developed by Anas Stilinski. It leverages Python and PyQt6 to perform real-time video processing and facial fatigue detection. The application offers a user-friendly interface for manipulating video feed properties and visualizing the results of facial action analysis.
